@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Luna;Antonio;
+FN:Antonio Luna
+TITLE:Director
+ORG:Miamimoon
+ADR;WORK:Madrid;Spain
+TEL;WORK;VOICE:+34 618 30 06 60
+TEL;CELL;VOICE:+34 618 30 06 60
+URL;WORK:http://www.miamimoon.es/
+EMAIL;PREF;INTERNET:luna@miamimoon.es
+REV:20140602T09:44:19Z
+END:VCARD
